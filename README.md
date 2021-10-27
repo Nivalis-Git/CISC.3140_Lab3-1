@@ -7,7 +7,7 @@ Move to the directory in which you keep the repository, and enter the command:
 ```
 make
 ```
-The data representation will be generated in <report.txt>
+The data representation will be generated in `report.txt`.
 
 ## What the report shows
 This is a practice script, that generates a simple data representation from a CSV file. The dataset contains a date in each record.
