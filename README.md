@@ -4,7 +4,7 @@
 To generate the data representation, GNU Make and GNU awk must be installed. The script assumes it runs on a linux OS.
 
 Move to the directory in which you keep the repository, and enter the command:
-		make
+				make
 
 ## What the report shows
 This is a practice script, that generates a simple data representation from a CSV file. The dataset contains a date in each record.
