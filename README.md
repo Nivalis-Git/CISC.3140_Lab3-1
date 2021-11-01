@@ -7,7 +7,7 @@ It produces a text representation of a CSV dataset.
 ## Instructions (Linux)
 To generate the data representation, GNU Make and GNU awk must be installed.
 
-Move to the directory in which you keep the repository, and enter the command:
+Move to the directory in which you placed the repository, and enter the command:
 ```
 make
 ```
@@ -20,6 +20,8 @@ This is a practice script, that generates a simple data representation from a CS
 The representation lists the years appearing in the data, alongside the total number of instances of each year.
 
 The recorded years are split into groups of eleven, except for the final group. Before listing each group's yearly counts, a simple average for the group is printed.
+
+For comparison, an instance of how the report should look is kept in the `test` directory
 
 
 ## Source of raw data
