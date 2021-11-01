@@ -1,4 +1,6 @@
-# Practice script for data analysis
+# Practice Script
+---
+# Collisions of birds on buldings by year
 
 ## Instructions
 To generate the data representation, GNU Make and GNU awk must be installed. The script assumes it runs on a linux OS.
